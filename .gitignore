@@ -5,5 +5,7 @@
 .tox
 .venv
 node_modules
-poetry.lock
 test.db
+
+# History extension
+.history
