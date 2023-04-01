@@ -29,9 +29,10 @@ packages = [{ include = "my_app" }]
 [tool.poetry.dependencies]
 python = "^3.8"
 django = "^3.2 || ^4.0"
+black = "23.1.0"
 
 [tool.poetry.dev-dependencies]
-black = "*"
+black = "23.1.0"
 coverage = "*"
 flake8 = "^3.9"
 flake8-bandit = "*"
