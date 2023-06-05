@@ -1,4 +1,7 @@
 from os import path
+from python-library-example.constants import EXAMPLE
+
+print(EXAMPLE)
 
 DEBUG = True
 TEMPLATE_DEBUG = True
