@@ -840,7 +840,7 @@ six = ">=1.5"
 
 [[package]]
 name = "python-library-example"
-version = "0.5"
+version = "0.7"
 description = ""
 optional = false
 python-versions = ">=3.6"
@@ -850,8 +850,8 @@ develop = false
 [package.source]
 type = "git"
 url = "ssh://git@github.com/joanplaja/python_library_example"
-reference = "v0.6"
-resolved_reference = "1b35b1f01ac9b734d40ea18ec7b109227419184f"
+reference = "v0.7"
+resolved_reference = "3b85da78f110e2e19a9241844553b8971bcbca51"
 
 [[package]]
 name = "pyyaml"
@@ -1083,4 +1083,4 @@ test = ["covdefaults (>=2.3)", "coverage (>=7.2.3)", "coverage-enable-subprocess
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "ec97973a8b740f309e7e8cb6eafed0d06cbe3bf072ec7fc4d2cf4bf557d4edf6"
+content-hash = "be8f48b6a61dfe092ebf47b16e134f916b51fde67f5208d3921bbdc01a5b13bc"
