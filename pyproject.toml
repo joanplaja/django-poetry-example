@@ -30,7 +30,7 @@ packages = [{ include = "my_app" }]
 python = "^3.8"
 django = "^3.2 || ^4.0"
 black = "23.1.0"
-python-library-example = {git = "ssh://git@github.com/joanplaja/python-library-example", rev = "refs/tags/v0.4"}
+python_library_example = {git = "ssh://git@github.com/joanplaja/python_library_example", rev = "v0.4"}
 
 [tool.poetry.dev-dependencies]
 black = "23.1.0"
